@@ -4,9 +4,9 @@
 
 👩🏻‍💻 Software Engineer sharing about my journey.
 
-👩🏻‍🎓 Studied Computer Science at the Lendi Institute Of Engineering Technology, A.P , INDIA.
+👩🏻‍🎓 Studying Computer Science at the Lendi Institute Of Engineering Technology, A.P , INDIA.
 
-🌷 #learninginpublic in my digital garden
+🌷 #learning in my digital Network.
 
 💭 Currently learning about Programming Language And working on Projects.
 
