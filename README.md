@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**indu-11/indu-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, i'm J.INDU !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏻‍💻 Software Engineer sharing about my journey.
+
+👩🏻‍🎓 Studied Computer Science at the Lendi Institute Of Engineering Technology, A.P , INDIA.
+
+🌷 #learninginpublic in my digital garden
+
+💭 Currently learning about Programming Language And working on Projects.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=indu-11&show_icons=true&theme=radical)
